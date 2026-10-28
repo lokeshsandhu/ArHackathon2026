@@ -1,6 +1,10 @@
-# Robot Warriors — Amazon Robotics Hackathon 2026
+# Robot Warriors - Amazon Robotics Hackathon 2026
 
-🏆 **Winning solution at the Amazon Robotics Hackathon 2026.**
+🏆 **1st place at the Amazon Robotics Hackathon 2026 - Robot Warriors, 4766.62 points.**
+
+![Competition leaderboard showing Robot Warriors in first place with 4766.62 points](docs/images/competition-leaderboard.png)
+
+*Competition leaderboard photographed at the event. The practice-case results below are separate local measurements.*
 
 We built a coordinated routing algorithm for warehouse robots that carry inventory pods from storage to pick stations. The challenge combines weighted shortest paths, shared aisles, limited station capacity, and time-sensitive deliveries.
 
