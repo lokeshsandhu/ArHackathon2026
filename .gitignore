@@ -2,3 +2,7 @@
 **/__pycache__/*
 visualization_output/*
 .venv/
+
+.DS_Store
+.env
+.env.*
